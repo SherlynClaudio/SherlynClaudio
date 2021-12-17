@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SherlynClaudio
 - 👀 I’m interested in Epigenetics, bioinformatics and science in general
 - 🌱 I’m currently learning Python and Microsoft azure
-- 💞️ I’m looking to collaborate on Bioinformatics proyects
+- 💞️ I’m looking to collaborate on Bioinformatics projects
 - 📫 How to reach me: sherlynclaudiog@gmail.com
 
 <!---
